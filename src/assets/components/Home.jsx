@@ -1,5 +1,5 @@
 import "../styles/Home.css";
-import Nav from "./nav";
+import Nav from "./Nav";
 import Footer from "./Footer"
 import bg from "../images/bg.jpg";
 export default function Home() {

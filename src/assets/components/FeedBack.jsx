@@ -1,5 +1,5 @@
 import "../styles/FeedBack.css";
-import Nav from "./nav";
+import Nav from "./Nav";
 import Footer from "./Footer";
 export default function FeedBack() {
     return (

@@ -4,7 +4,7 @@ import petrol from "../images/petrol.jpeg";
 import gear from "../images/gear.jpeg";
 import ev from "../images/ev.jpeg";
 import b from "../images/B.jpg";
-import Nav from "./nav";
+import Nav from "./Nav";
 import Footer from "./Footer"
 export default function Service() {
 
