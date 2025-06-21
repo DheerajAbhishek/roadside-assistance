@@ -1,0 +1,161 @@
+#RA {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+
+}
+
+h5 {
+    display: inline;
+    color: white;
+    filter: drop-shadow(2px 4px 6px black);
+    font-size: 50px;
+    font-weight: 100;
+    font-family: Arial, sans-serif;
+    margin: 0;
+
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    padding: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+
+
+#login {
+    width: max-content;
+    position: relative;
+    right: 140px;
+}
+
+
+/* #About:active {
+    color: rgb(92, 181, 123);
+} */
+
+#home:hover {
+    color: rgb(92, 181, 123);
+
+}
+
+#FeedBack:hover {
+    color: rgb(92, 181, 123);
+}
+
+#service:hover {
+    color: rgb(92, 181, 123);
+}
+
+.paras {
+    display: flex;
+    font-size: large;
+}
+
+h2,
+h1 {
+    margin-left: 25px;
+}
+
+p {
+    margin-left: 25px;
+    font-size: larger;
+    margin-right: 9px;
+}
+
+#left {
+
+    background-color: #dce2f0
+}
+
+/*body {
+    --s: 200px;
+    /* control the size
+    --c1: #1d1d1d;
+    --c2: #4e4f51;
+    --c3: #3c3c3c;
+
+    background:
+        repeating-conic-gradient(from 30deg, #0000 0 120deg, var(--c3) 0 180deg) calc(.5*var(--s)) calc(.5*var(--s)*0.577),
+        repeating-conic-gradient(from 30deg, var(--c1) 0 60deg, var(--c2) 0 120deg, var(--c3) 0 180deg);
+    background-size: var(--s) calc(var(--s)*0.577);
+}*/
+#left img {
+    margin-right: 25px;
+}
+
+.ABtimg {
+    margin-left: 25px;
+}
+
+.abth1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+    color: #383d45;
+    text-decoration: underline;
+    text-decoration-color: black;
+    margin-left: 25px;
+
+}
+
+section {
+    width: 1200px;
+    position: relative;
+    left: 150px;
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    color: aliceblue;
+    background-color: black;
+    border: 0px solid rgb(255, 255, 255);
+    border-top-width: 3px;
+    width: 1540px;
+
+}
+
+#footerservices {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+
+.x {
+    display: block;
+}
+
+#insta {
+    display: inline;
+}
+
+.x:hover {
+    text-decoration: underline;
+}
+
+#media {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#links {
+    display: flex;
+    flex-direction: row;
+
+}

@@ -1,0 +1,110 @@
+#home:hover {
+    color: rgb(92, 181, 123);
+    ;
+}
+
+#service:hover {
+    color: rgb(92, 181, 123);
+}
+
+#About:hover {
+    color: rgb(92, 181, 123);
+}
+
+.FBsection {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.FBform {
+
+    text-align: center;
+    height: 650px;
+}
+
+.FBbutton {
+    border-radius: 15px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: larger;
+    background-color: rgb(233, 178, 38);
+    color: rgb(12, 41, 146);
+    position: relative;
+    top: 249px;
+    left: -145px;
+}
+
+.FBinput {
+    position: relative;
+    top: 150px;
+    left: 60px;
+    scale: 1.5;
+    border-radius: 5px;
+    padding: 15px;
+
+}
+
+.FBh1 {
+
+    background-color: #9babc2;
+    text-align: center;
+    font-style: oblique;
+    margin: 0;
+
+
+}
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    color: aliceblue;
+    background-color: black;
+    border: 0px solid rgb(255, 255, 255);
+    border-top-width: 3px;
+    width: 1540px;
+
+}
+
+#footerservices {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+
+}
+
+.x {
+    display: block;
+}
+
+#insta {
+    display: inline;
+}
+
+.x:hover {
+    text-decoration: underline;
+}
+
+#media {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#links {
+    display: flex;
+    flex-direction: row;
+
+}
