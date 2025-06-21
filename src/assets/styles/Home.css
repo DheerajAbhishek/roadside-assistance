@@ -1,0 +1,185 @@
+body {
+    margin: 0;
+
+}
+
+nav {
+    background-color: #232421;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px 10px;
+    flex-wrap: wrap;
+    width: 100%;
+    max-height: 123px;
+    width: 1520px;
+
+}
+
+#logo {
+    width: max-content;
+    margin-left: 0px;
+    scale: 0.8;
+    max-width: 200.4px;
+    max-height: 200.4px;
+    width: 200px;
+    position: relative;
+    bottom: 32px;
+}
+
+
+#RA {
+    display: flex;
+    align-items: center;
+    margin-left: 39px;
+
+}
+
+h5 {
+    display: inline;
+    color: white;
+    filter: drop-shadow(2px 4px 6px black);
+    font-size: 50px;
+    font-weight: 100;
+    font-family: Arial, sans-serif;
+    margin: 0;
+
+}
+
+
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 19px;
+    padding: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#home {
+    color: rgb(92, 181, 123);
+}
+
+#center {
+    width: max-content;
+    margin-left: 30px;
+    position: relative;
+    right: 100px;
+}
+
+#login {
+    width: max-content;
+    position: relative;
+    right: 140px;
+}
+
+
+
+.homeh1 {
+    font-size: 80px;
+    font-family: Arial;
+    font-weight: 300;
+    margin: 0;
+    position: relative;
+    top: 172px;
+    left: 87px;
+    width: fit-content;
+    color: rgb(255, 255, 255);
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+header {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(bg.jpg);
+    height: 667px;
+    width: 1540px;
+    filter: brightness(60%);
+    background-position: bottom;
+}
+
+.homebutton {
+    position: relative;
+    border-radius: 15px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: larger;
+    background-color: white;
+    color: red;
+    top: 344px;
+    left: 87px;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.homebutton:hover {
+    background-color: rgb(0, 0, 0);
+    color: rgb(92, 181, 123);
+
+}
+
+#service:hover {
+    color: rgb(92, 181, 123);
+    ;
+}
+
+#FeedBack:hover {
+    color: rgb(92, 181, 123);
+}
+
+#About:hover {
+    color: rgb(92, 181, 123);
+}
+
+
+
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 400px;
+    color: aliceblue;
+    background-color: black;
+    border: 0px solid rgb(255, 255, 255);
+    border-top-width: 3px;
+    width: 1540px;
+
+}
+
+#footerservices {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.x {
+    display: block;
+}
+
+#insta {
+    display: inline;
+}
+
+.x:hover {
+    text-decoration: underline;
+}
+
+#media {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#links {
+    display: flex;
+    flex-direction: row;
+
+}
