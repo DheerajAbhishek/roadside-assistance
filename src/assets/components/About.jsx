@@ -2,7 +2,7 @@ import "../styles/About.css";
 import clock from "../images/stopwatch.png";
 import wrench from "../images/wrench.png";
 import loc from "../images/loc.png";
-import Nav from "./nav";
+import Nav from "./Nav";
 import Footer from "./Footer";
 import tow from "../images/tow.png";
 import road from "../images/road.png";
